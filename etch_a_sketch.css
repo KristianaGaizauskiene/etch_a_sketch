@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #B6B6B6;
+    font-family: 'Asap', sans-serif;
+}
+h1 {
+    margin: 30px auto;
+    color: #242424;
+    font-size: 48pt;
+    text-align: center;
+}
+
+#resize_button {
+    color: #F7F6F6;
+    background-color: #444444;
+    margin: 30px auto;
+    padding: 15px 32px;
+    border-radius: 50%;
+    width: 150px;
+    display: grid;
+    justify-content: center;
+    cursor: pointer;
+} 
+
+#container {
+    display: grid;
+    margin: 0 auto;
+    justify-content: center;
+    max-width: 0.5em;
+    background-color: #B6B6B6;
+  }
+  
+  .square {
+    background: rgb;
+    border: 1px solid #B6B6B6;
+    padding: 1em 1em;
+    background-color: black;
+  }
+ 
+
+
